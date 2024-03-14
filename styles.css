@@ -1,0 +1,25 @@
+.container {
+    position: relative;
+    width: 100%;
+  }
+  
+.container_fieldset{
+    padding-top: 9.8rem;
+}
+.container_tabela{
+    padding-top: 25rem;
+}
+.container_goty{
+    padding-top:15rem;
+}
+
+.container_jogo{
+    padding-top: 9.7rem;
+}
+  .container > iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
